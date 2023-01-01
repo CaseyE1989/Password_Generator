@@ -32,4 +32,6 @@ random_password = ''.join(shuffle_password)
 
 print(f'Here is your password {random_password}')
 
+input()
+
 
